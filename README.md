@@ -1,12 +1,12 @@
-# Awesome WPO
+# WPO
 
-A curated list of Web Performance Optimization. Everyone can contribute here!
+Una lista curada sobre Optimización de Rendimiento Web. Todos pueden contribuir!
 
-- [Docs](#documentation)
+- [Documentos](#documentación)
 - [Blogs](#blogs)
-- [Articles](#articles)
+- [Artículos](#articulos)
 - [Talks](#talks)
-- [Analyzers](#analyzers)
+- [Analizadores](#analizadores)
 - [Analyzers API](#analyzers---api)
 - [Benchmark - CSS](#benchmark---css)
 - [Benchmark - JS](#benchmark---javascript)
